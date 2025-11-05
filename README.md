@@ -1,4 +1,4 @@
-# 💡 Customer Behavior Data Analyst Portfolio Project
+# 💻 Customer Behavior Data Analyst Portfolio Project
 
 This project represents a complete, industry-standard, end-to-end data analytics workflow designed to mirror the real responsibilities of professional analysts in modern business environments. It covers all critical stages of data analysis — from data preparation and modeling to insight generation, visualization, and reporting.
 
@@ -24,28 +24,7 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 
 ---
 
-## 🔁 Project Workflow
-
-1. **Business Problem Statement**  
-   Define the core business questions and objectives.
-
-2. **Data Modeling & EDA in Python**  
-   Import, clean, and explore the dataset, then load it into an SQL database.
-
-3. **Data Analysis in SQL**  
-   Query the data to uncover insights on customer behavior and performance metrics.
-
-4. **Interactive Dashboard (Power BI)**  
-   Connect the SQL database and design visual dashboards to communicate insights effectively.
-
-5. **Project Report**  
-   Summarize key findings and recommendations.
-
-6. **Presentation (Gamma AI)**  
-   Build a presentation deck to present insights to stakeholders.
-
-7. **Create GitHub Repository**  
-   Upload all project files and documentation.
+<img width="941" height="528" alt="image" src="https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7" />
 
 ---
 
@@ -53,5 +32,5 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/alpboraeris/customer_behavior_data_analysis.git
+cd customer_behavior_data_analysis
