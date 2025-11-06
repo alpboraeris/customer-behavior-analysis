@@ -42,7 +42,7 @@ This file contains:
 
 - Create a database in SQL
 - Run Python code to load data into SQL database
-- Open customer_behavior_sql_queries.sql
+- Open queries.sql
 - Answer Business Questions using SQL Queries
 
 ### 4.Connect the SQL Database to Power BI
