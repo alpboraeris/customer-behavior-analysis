@@ -19,14 +19,14 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 
 ![Project Workflow](https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7)
 
-## 🧭 How to Use This Project
+## 🔧 How to Use This Project
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/alpboraeris/customer_behavior_data_analysis.git
 cd customer_behavior_data_analysis
 ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open analysis.ipynb notebook**
 
     This file contains:
 
@@ -50,6 +50,5 @@ cd customer_behavior_data_analysis
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **dashboard.pbix**
    
-      - Create interactive dashboard in Power BI
