@@ -1,7 +1,7 @@
 
 ## 💻  Project Overview
 
-The goal of this project is to simulate a corporate-grade, end-to-end data analytics workflow that demonstrates how to translate raw customer data into strategic business intelligence using **Python**, **SQL**, and **Power BI**.
+The goal of this project is to simulate a corporate-grade, end-to-end data analytics workflow that demonstrates how to translate raw customer data into strategic business intelligence using **Python**, **SQL** and **Power BI**.
 
 ### ✅ Key Stages
 
