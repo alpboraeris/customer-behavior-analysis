@@ -28,29 +28,21 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 git clone https://github.com/alpboraeris/customer_behavior_data_analysis.git
 cd customer_behavior_data_analysis
 ```
-2. **Open analysis.ipynb notebook**
-
-    This file contains:
-
-      - Data Import
-
-      - Data exploration
-
-      - Data cleaning
-
-      - Connection to SQL Database
+### 2. Open analysis.ipynb notebook  
+This file contains:
+  - Data Import
+  - Data exploration
+  - Data cleaning
+  - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
-
-      - Create a database in SQL
-
-      - Run Python code to load data into SQL database
-  
-      - Open **queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
+### 3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+ - Create a database in SQL
+ - Run Python code to load data into SQL database
+ - Open **queries.sql**
+ - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+### 4. Connect the SQL Database to Power BI
+ - Open **dashboard.pbix**
 
-      - Open **dashboard.pbix**
+    
    
