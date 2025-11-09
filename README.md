@@ -6,20 +6,20 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 ### ✅ Key Stages
 
 - **Data Preparation, Modeling & Exploratory Data Analysis (Python)**  
-  Clean and transform the raw dataset for analysis.
+  Cleaned and transformed the raw dataset for analysis.
 
-- **Data Analysis (SQL)**  
-  Simulate business transactions and run queries to extract insights on customer segments, loyalty, and purchase behavior.
+- **Data Analysis (SQL)** 
+  Developed and executed SQL queries to simulate business transactions and extract insights on customer segments, loyalty and purchase behavior.
 
 - **Visualization & Insights (Power BI)**  
-  Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+  Built an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 - **Report & Presentation**  
-  Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+ Delivered a structured project report and a business presentation summarizing key findings, insights and actionable recommendations.
 
 ![Project Workflow](https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7)
 
-## 🔧 How to Use This Project
+## 🛠 How to Use This Project
 
 ### 1. Clone the Repository
 ```bash
