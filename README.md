@@ -18,6 +18,8 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
  Delivered a structured project report and a business presentation summarizing key findings, insights and actionable recommendations.
 
 ![Project Workflow](https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7)
+![dashboard_latest](https://github.com/user-attachments/assets/86a4c85a-ae5d-4e31-8803-5337f0c3925c)
+
 
 ## 🛠 How to Use This Project
 
