@@ -8,7 +8,7 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 - **Data Preparation, Modeling & Exploratory Data Analysis (Python)**  
   Cleaned and transformed the raw dataset for analysis.
 
-- **Data Analysis (SQL)**
+- **Data Analysis (SQL)**  
   Developed and executed SQL queries to simulate business transactions and extract insights on customer segments, loyalty and purchase behavior.
 
 - **Visualization & Insights (Power BI)**  
