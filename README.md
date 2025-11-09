@@ -25,7 +25,7 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/alpboraeris/customer_behavior_data_analysis.git
+git clone https://github.com/alpboraeris/customer-behavior-analysis.git
 cd customer_behavior_data_analysis
 ```
 ### 2. Open analysis.ipynb notebook  
