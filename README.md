@@ -22,8 +22,8 @@ The goal is to show how this information can be shaped into clear **findings** a
 ![Project Workflow](https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7)
 ![dashboard_latest](https://github.com/user-attachments/assets/86a4c85a-ae5d-4e31-8803-5337f0c3925c)
 
-### 📁Dataset
-[Shopping Behavior](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)
+### [💾Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)
+
 
 
 ## 🛠 How to Use This Project
