@@ -1,7 +1,8 @@
 
 ## 🏷📦 Customer Behavior Analysis
 
-This project turns raw customer shopping data into practical **business insights** using **Python**, **SQL** and **Power BI**. The dataset covers demographics, purchase habits and product preferences. 
+This project turns raw customer shopping data into practical **business insights** using **Python**, **SQL** and **Power BI**. 
+The dataset covers demographics, purchase habits and product preferences. 
 The goal is to show how this information can be shaped into clear **findings** a company can use for **marketing**, **product decisions** and **customer strategy**.
 
 ### ✅ Key Stages
