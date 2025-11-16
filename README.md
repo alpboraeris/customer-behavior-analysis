@@ -1,7 +1,8 @@
 
-## 💻  Project Overview
+## 🏷📦 Customer Behavior Analysis
 
-The goal of this project is to simulate a corporate-grade, end-to-end data analytics workflow that demonstrates how to translate raw customer data into strategic business intelligence using **Python**, **SQL** and **Power BI**.
+This project turns raw customer shopping data into practical **business insights** using **Python**, **SQL** and **Power BI**. The dataset covers demographics, purchase habits and product preferences. 
+The goal is to show how this information can be shaped into clear **findings** a company can use for **marketing**, **product decisions** and **customer strategy**.
 
 ### ✅ Key Stages
 
@@ -19,6 +20,9 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 
 ![Project Workflow](https://github.com/user-attachments/assets/719afb37-aa89-4754-afe3-408c745218e7)
 ![dashboard_latest](https://github.com/user-attachments/assets/86a4c85a-ae5d-4e31-8803-5337f0c3925c)
+
+### 📁Dataset
+[Shopping Behavior](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)
 
 
 ## 🛠 How to Use This Project
